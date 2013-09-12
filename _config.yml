@@ -1,3 +1,13 @@
-name: dev@ComparaOnline
+title : "dev@ComparaOnline"
 markdown: redcarpet
 pygments: true
+permalink: /posts/:title
+production_url : http://comparaonline.github.io/
+description: "Dev stuffs from comparaonline."
+disqus_shortname: devcomparaonline
+analytics: UA-43931956-1
+author :
+  name : ComparaOnline
+  github : comparaonline
+  twitter : comparaonline
+  email: dev@comparaonline.com
