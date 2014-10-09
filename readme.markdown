@@ -3,6 +3,7 @@
 
 Up
 --------------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/comparaonline/comparaonline.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Up is a clean and beautiful [Bootstrap](http://getbootstrap.com) based layout
 for [Jekyll](https://github.com/mojombo/jekyll).
